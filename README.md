@@ -1,6 +1,6 @@
 # Retail-Sales-Analysis-Project
-A data analytics project using Python, SQL, Power BI.
-Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, SQL, Power BI, Excel
+A data analytics project using Python, Power BI.
+Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Power BI, Excel
 📁 Project Files
 
 retail_sales_project4.csv — dataset
@@ -10,8 +10,6 @@ Project.ipynb — full Python EDA
 dashboard.pbix — Power BI dashboard
 
 plots/ — visualizations
-
-sql_queries.sql — SQL analysis
 
 README.md — project overview
 
